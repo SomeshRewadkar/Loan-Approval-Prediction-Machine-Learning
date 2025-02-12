@@ -1,6 +1,6 @@
 # Loan Approval Prediction
 
-This repository contains a Jupyter Notebook for predicting loan approval status using machine learning techniques. The dataset used is loaded from a CSV file and analyzed using Python's data science libraries.
+This repository contains a Jupyter Notebook and dataset for predicting loan approval status using machine learning techniques. The dataset used is loaded from a CSV file and analyzed using Python's data science libraries.
 
 ## Features
 - Exploratory Data Analysis (EDA)
